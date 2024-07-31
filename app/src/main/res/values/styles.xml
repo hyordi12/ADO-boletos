@@ -1,0 +1,20 @@
+<resources>
+
+
+    <style name="ADOTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowBackground">@drawable/fondo</item>
+        <item name="colorPrimary">@color/newColorPrimary</item>
+        <item name="colorPrimaryDark">@color/newColorPrimaryDark</item>
+        <item name="colorAccent">@color/newColorAccent</item>
+        <item name="android:buttonStyle">@style/NewCustomButton</item>
+
+    </style>
+
+
+    <style name="NewCustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/newButtonBackground</item>
+        <item name="android:textColor">@color/newButtonTextColor</item>
+    </style>
+
+</resources>

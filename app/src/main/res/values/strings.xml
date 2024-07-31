@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">boletosADO</string>
+    <string name="vender">Vender</string>
+    <string name="consultar">Consultar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="eliminar2">Eliminar</string>
+    <string name="label_id">ID:</string>
+    <string name="select_date">Seleccionar Fecha</string>
+    <string name="select_time">Seleccionar Hora</string>
+    <string name="total">Total:</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="boleta_guardada">Boleto guardado exitosamente</string>
+
+    <string name="origen_hint">Origen</string>
+    <string name="destino_hint">Destino</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="seleccionar_hora">Seleccionar Hora</string>
+    <string name="et_fecha_hint">Fecha</string>
+    <string name="et_hora_hint">Hora</string>
+
+    <string name="btn_guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+
+
+    <string name="id_hint">ID</string>
+    <string name="buscar">Buscar</string>
+    <string name="resultado_no_encontrado">No se encontró información para el ID</string>
+    <string name="resultado_id">ID: %1$d\nOrigen: %2$s\nDestino: %3$s\nFecha: %4$s\nHora: %5$s\nTotal: $%6$d</string>
+
+
+
+    <string name="et_id_hint">ID</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="et_fecha_hint1">Fecha</string>
+    <string name="et_hora_hint1">Hora</string>
+    <string name="tv_total_hint">Total</string>
+    <string name="btn_guardar1">Guardar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="select_origen">Seleccionar Origen</string>
+    <string name="select_destino">Seleccionar Destino</string>
+
+    <string-array name="ciudades_origen">
+        <item>Merida</item>
+        <item>Cancun</item>
+        <item>Ciudad de Mexico</item>
+        <item>Aguascalientes</item>
+        <item>Nuevo Leon</item>
+    </string-array>
+
+    <string-array name="ciudades_destino">
+        <item>Chihuahua</item>
+        <item>Ciudad Juarez</item>
+        <item>Jalisco</item>
+        <item>Coahuila</item>
+        <item>Baja California</item>
+    </string-array>
+
+
+    <string name="eliminar">Eliminar</string>
+    <string name="informacion_eliminada">Información del ID %1$d eliminada.</string>
+    <string name="regresar">Regresar</string>
+</resources>

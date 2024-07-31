@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="newColorPrimary">#009688</color>
+    <color name="newColorPrimaryDark">#00796B</color>
+    <color name="newColorAccent">#FF5722</color>
+
+
+
+    <color name="newButtonBackground">#009688</color>
+    <color name="newButtonBackgroundPressed">#FF5722</color>
+    <color name="newButtonTextColor">@color/white</color>
+    <color name="newButtonTextColorPressed">@color/black</color>
+</resources>
